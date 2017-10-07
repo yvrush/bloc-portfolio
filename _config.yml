@@ -5,37 +5,36 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: Yury Verush
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Creative Developer, Data Enthusiast, and Combat Veteran.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
+  email_address: "yury.verush@gmail.com"# Full email address, e.g. 
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
-  flickr:
-  github: "madebymunsters/type-theme"
-  google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  dribbble: "https://dribbble.com/yury_verush"
+  facebook: "https://www.facebook.com/yverush"
+  flickr: "www.flickr.com/photos/yvrush/"
+  github: "https://github.com/yvrush"
+  google_plus: "https://plus.google.com/+YuryVerush"
+  instagram: "https://www.instagram.com/yvrush/"
+  linkedin: "https://www.linkedin.com/in/yuryverush/" # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: "yuryverush"
   wordpress:
   youtube:
 
