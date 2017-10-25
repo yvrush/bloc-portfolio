@@ -1,8 +1,8 @@
 ---
  layout: post
- title: blockjams_Angular
+ title: Blockjams_Angular
  thumbnail-path: "img/bloc_Angular.png"
- short-description: Blocjams_Angular is a Audio WebPlayer  To play your music online.
+ short-description: Blocjams_Angular is a Audio WebPlayer to play your music online.
 ---
 
 {:.center}
