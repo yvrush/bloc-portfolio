@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "https://github.com/yvrush/bloc-portfolio" # the subpath of your site, e.g. /blog/
-url: "http://yvrush.github.com/" # the base hostname & protocol for your site
+url: "https://yvrush.github.com/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
