@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/bloc-portfolio" # the subpath of your site, e.g. /blog/
  url: "http://yvrush.github.io" 
 
 # THEME-SPECIFIC CONFIGURATION
