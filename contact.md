@@ -9,7 +9,7 @@ Lets connect!
 
 <form action="https://getsimpleform.com/messages?form_api_token=49b911bbce3a0d42cefc3d0106715dfe" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://www.youtube.com/' />
+  <input type='hidden' name='redirect_to' value='http:/yrush.club/thank-you/' />
   <div>
   <input type='text' name='name' placeholder='Your Full Name' />
   </div>
